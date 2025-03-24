@@ -1,0 +1,791 @@
+Ground,year,Opposition_Country,Country,result
+Khan Shaheb Osman Ali Stadium,2014,Pakistan,Afghanistan,0
+Khan Shaheb Osman Ali Stadium,2014,Bangladesh,Afghanistan,1
+Shere Bangla National Stadium,2014,India,Afghanistan,0
+Manuka Oval,2015,Bangladesh,Afghanistan,0
+WACA Ground,2015,Australia,Afghanistan,0
+McLean Park,2015,New Zealand,Afghanistan,0
+Sydney Cricket Ground,2015,England,Afghanistan,0
+Shere Bangla National Stadium,2016,Bangladesh,Afghanistan,0
+Shere Bangla National Stadium,2016,Bangladesh,Afghanistan,1
+Sheikh Zayed Stadium,2018,Bangladesh,Afghanistan,1
+Sheikh Zayed Stadium,2018,Pakistan,Afghanistan,0
+Sheikh Zayed Stadium,2018,Bangladesh,Afghanistan,0
+County Ground (Bristol),2019,Australia,Afghanistan,0
+The Cooper Associates County Ground,2019,New Zealand,Afghanistan,0
+Sophia Gardens,2019,South Africa,Afghanistan,0
+Old Trafford,2019,England,Afghanistan,0
+The Rose Bowl,2019,India,Afghanistan,0
+The Rose Bowl,2019,Bangladesh,Afghanistan,0
+Headingley,2019,Pakistan,Afghanistan,0
+Zahur Ahmed Chowdhury Stadium,2022,Bangladesh,Afghanistan,0
+Zahur Ahmed Chowdhury Stadium,2022,Bangladesh,Afghanistan,1
+Zahur Ahmed Chowdhury Stadium,2023,Bangladesh,Afghanistan,1
+Zahur Ahmed Chowdhury Stadium,2023,Bangladesh,Afghanistan,0
+Mahinda Rajapaksha International Cricket Stadium,2023,Pakistan,Afghanistan,0
+R Premadasa Stadium,2023,Pakistan,Afghanistan,0
+Gaddafi Stadium,2023,Bangladesh,Afghanistan,0
+Himachal Pradesh Cricket Association Stadium,2023,Bangladesh,Afghanistan,0
+Arun Jaitley Stadium,2023,India,Afghanistan,0
+Arun Jaitley Stadium,2023,England,Afghanistan,1
+MA Chidambaram Stadium,2023,New Zealand,Afghanistan,0
+MA Chidambaram Stadium,2023,Pakistan,Afghanistan,1
+Wankhede Stadium,2023,Australia,Afghanistan,0
+Narendra Modi Stadium,2023,South Africa,Afghanistan,0
+Sharjah Cricket Stadium,2024,South Africa,Afghanistan,1
+Sharjah Cricket Stadium,2024,South Africa,Afghanistan,0
+Sharjah Cricket Stadium,2024,Bangladesh,Afghanistan,1
+Sharjah Cricket Stadium,2024,Bangladesh,Afghanistan,0
+Melbourne Cricket Ground,2014,England,Australia,1
+Brisbane Cricket Ground,2014,England,Australia,1
+Sydney Cricket Ground,2014,England,Australia,1
+WACA Ground,2014,England,Australia,0
+Adelaide Oval,2014,England,Australia,1
+Harare Sports Club,2014,South Africa,Australia,0
+Harare Sports Club,2014,South Africa,Australia,1
+Sharjah Cricket Stadium,2014,Pakistan,Australia,1
+Dubai International Cricket Stadium,2014,Pakistan,Australia,1
+Sheikh Zayed Stadium,2014,Pakistan,Australia,1
+WACA Ground,2014,South Africa,Australia,1
+WACA Ground,2014,South Africa,Australia,0
+Manuka Oval,2014,South Africa,Australia,1
+Melbourne Cricket Ground,2014,South Africa,Australia,1
+Sydney Cricket Ground,2014,South Africa,Australia,1
+Sydney Cricket Ground,2015,England,Australia,1
+Melbourne Cricket Ground,2015,India,Australia,1
+Bellerive Oval,2015,England,Australia,1
+WACA Ground,2015,England,Australia,1
+Melbourne Cricket Ground,2015,England,Australia,1
+Eden Park,2015,New Zealand,Australia,0
+Adelaide Oval,2015,Pakistan,Australia,1
+Sydney Cricket Ground,2015,India,Australia,1
+Melbourne Cricket Ground,2015,New Zealand,Australia,1
+The Rose Bowl,2015,England,Australia,1
+Lord's,2015,England,Australia,1
+Old Trafford,2015,England,Australia,0
+Headingley,2015,England,Australia,0
+Old Trafford,2015,England,Australia,1
+WACA Ground,2016,India,Australia,1
+Brisbane Cricket Ground,2016,India,Australia,1
+Melbourne Cricket Ground,2016,India,Australia,1
+Manuka Oval,2016,India,Australia,1
+Sydney Cricket Ground,2016,India,Australia,0
+Eden Park,2016,New Zealand,Australia,0
+Sky Stadium,2016,New Zealand,Australia,1
+Seddon Park,2016,New Zealand,Australia,0
+Providence Stadium,2016,South Africa,Australia,0
+Warner Park,2016,South Africa,Australia,1
+SuperSport Park,2016,South Africa,Australia,0
+Wanderers Stadium,2016,South Africa,Australia,0
+Kingsmead,2016,South Africa,Australia,0
+St George's Park,2016,South Africa,Australia,0
+Newlands,2016,South Africa,Australia,0
+Sydney Cricket Ground,2016,New Zealand,Australia,1
+Manuka Oval,2016,New Zealand,Australia,1
+Melbourne Cricket Ground,2016,New Zealand,Australia,1
+Brisbane Cricket Ground,2017,Pakistan,Australia,1
+Melbourne Cricket Ground,2017,Pakistan,Australia,0
+WACA Ground,2017,Pakistan,Australia,1
+Sydney Cricket Ground,2017,Pakistan,Australia,1
+Adelaide Oval,2017,Pakistan,Australia,1
+Eden Park,2017,New Zealand,Australia,0
+Seddon Park,2017,New Zealand,Australia,0
+Edgbaston,2017,England,Australia,0
+MA Chidambaram Stadium,2017,India,Australia,0
+Eden Gardens,2017,India,Australia,0
+Holkar Cricket Stadium,2017,India,Australia,0
+M Chinnaswamy Stadium,2017,India,Australia,1
+Vidarbha Cricket Association Stadium,2017,India,Australia,0
+Melbourne Cricket Ground,2018,England,Australia,0
+Brisbane Cricket Ground,2018,England,Australia,0
+Sydney Cricket Ground,2018,England,Australia,0
+Adelaide Oval,2018,England,Australia,1
+Perth Stadium,2018,England,Australia,0
+Kennington Oval,2018,England,Australia,0
+Sophia Gardens,2018,England,Australia,0
+Trent Bridge,2018,England,Australia,0
+Riverside Ground,2018,England,Australia,0
+Old Trafford,2018,England,Australia,0
+Perth Stadium,2018,South Africa,Australia,0
+Adelaide Oval,2018,South Africa,Australia,1
+Bellerive Oval,2018,South Africa,Australia,0
+Sydney Cricket Ground,2019,India,Australia,1
+Adelaide Oval,2019,India,Australia,0
+Melbourne Cricket Ground,2019,India,Australia,0
+Rajiv Gandhi International Stadium,2019,India,Australia,0
+Vidarbha Cricket Association Stadium,2019,India,Australia,0
+JSCA International Stadium Complex,2019,India,Australia,1
+Punjab Cricket Association IS Bindra Stadium,2019,India,Australia,1
+Arun Jaitley Stadium,2019,India,Australia,1
+Sharjah Cricket Stadium,2019,Pakistan,Australia,1
+Sheikh Zayed Stadium,2019,Pakistan,Australia,1
+Dubai International Cricket Stadium,2019,Pakistan,Australia,1
+Kennington Oval,2019,India,Australia,0
+The Cooper Associates County Ground,2019,Pakistan,Australia,1
+Trent Bridge,2019,Bangladesh,Australia,1
+Lord's,2019,England,Australia,1
+Lord's,2019,New Zealand,Australia,1
+Old Trafford,2019,South Africa,Australia,0
+Edgbaston,2019,England,Australia,0
+Wankhede Stadium,2020,India,Australia,1
+Saurashtra Cricket Association Stadium,2020,India,Australia,0
+M Chinnaswamy Stadium,2020,India,Australia,0
+Boland Park,2020,South Africa,Australia,0
+Mangaung Oval,2020,South Africa,Australia,0
+Senwes Park,2020,South Africa,Australia,0
+Sydney Cricket Ground,2020,New Zealand,Australia,1
+Old Trafford,2020,England,Australia,1
+Old Trafford,2020,England,Australia,0
+Sydney Cricket Ground,2020,India,Australia,1
+Manuka Oval,2020,India,Australia,0
+Gaddafi Stadium,2022,Pakistan,Australia,1
+Gaddafi Stadium,2022,Pakistan,Australia,0
+Cazaly's Stadium,2022,New Zealand,Australia,1
+Adelaide Oval,2022,England,Australia,1
+Sydney Cricket Ground,2022,England,Australia,1
+Melbourne Cricket Ground,2022,England,Australia,1
+Wankhede Stadium,2023,India,Australia,0
+Dr YS Rajasekhara Reddy Cricket Stadium,2023,India,Australia,1
+MA Chidambaram Stadium,2023,India,Australia,1
+Mangaung Oval,2023,South Africa,Australia,1
+Senwes Park,2023,South Africa,Australia,0
+SuperSport Park,2023,South Africa,Australia,0
+Wanderers Stadium,2023,South Africa,Australia,0
+Punjab Cricket Association IS Bindra Stadium,2023,India,Australia,0
+Holkar Cricket Stadium,2023,India,Australia,0
+Saurashtra Cricket Association Stadium,2023,India,Australia,1
+MA Chidambaram Stadium,2023,India,Australia,0
+Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium,2023,South Africa,Australia,0
+M Chinnaswamy Stadium,2023,Pakistan,Australia,1
+Himachal Pradesh Cricket Association Stadium,2023,New Zealand,Australia,1
+Narendra Modi Stadium,2023,England,Australia,1
+Maharashtra Cricket Association Stadium,2023,Bangladesh,Australia,1
+Eden Gardens,2023,South Africa,Australia,1
+Narendra Modi Stadium,2023,India,Australia,1
+Trent Bridge,2024,England,Australia,1
+Headingley,2024,England,Australia,1
+Riverside Ground,2024,England,Australia,0
+Lord's,2024,England,Australia,0
+County Ground (Bristol),2024,England,Australia,1
+Melbourne Cricket Ground,2024,Pakistan,Australia,1
+Adelaide Oval,2024,Pakistan,Australia,0
+Perth Stadium,2024,Pakistan,Australia,0
+Khan Shaheb Osman Ali Stadium,2014,India,Bangladesh,0
+Khan Shaheb Osman Ali Stadium,2014,Afghanistan,Bangladesh,0
+Shere Bangla National Stadium,2014,Pakistan,Bangladesh,0
+Shere Bangla National Stadium,2014,India,Bangladesh,0
+Manuka Oval,2015,Afghanistan,Bangladesh,1
+Adelaide Oval,2015,England,Bangladesh,1
+Seddon Park,2015,New Zealand,Bangladesh,0
+Melbourne Cricket Ground,2015,India,Bangladesh,0
+Shere Bangla National Stadium,2015,Pakistan,Bangladesh,1
+Shere Bangla National Stadium,2015,India,Bangladesh,1
+Shere Bangla National Stadium,2015,India,Bangladesh,0
+Shere Bangla National Stadium,2015,South Africa,Bangladesh,0
+Shere Bangla National Stadium,2015,South Africa,Bangladesh,1
+Zahur Ahmed Chowdhury Stadium,2015,South Africa,Bangladesh,1
+Shere Bangla National Stadium,2016,Afghanistan,Bangladesh,1
+Shere Bangla National Stadium,2016,Afghanistan,Bangladesh,0
+Shere Bangla National Stadium,2016,England,Bangladesh,0
+Shere Bangla National Stadium,2016,England,Bangladesh,1
+Zahur Ahmed Chowdhury Stadium,2016,England,Bangladesh,0
+Hagley Oval,2016,New Zealand,Bangladesh,0
+Saxton Oval,2016,New Zealand,Bangladesh,0
+Castle Avenue,2017,New Zealand,Bangladesh,0
+Castle Avenue,2017,New Zealand,Bangladesh,1
+Kennington Oval,2017,England,Bangladesh,0
+Sophia Gardens,2017,New Zealand,Bangladesh,1
+Edgbaston,2017,India,Bangladesh,0
+Diamond Oval,2017,South Africa,Bangladesh,0
+Boland Park,2017,South Africa,Bangladesh,0
+Buffalo Park,2017,South Africa,Bangladesh,0
+Sheikh Zayed Stadium,2018,Afghanistan,Bangladesh,0
+Dubai International Cricket Stadium,2018,India,Bangladesh,0
+Sheikh Zayed Stadium,2018,Afghanistan,Bangladesh,1
+Sheikh Zayed Stadium,2018,Pakistan,Bangladesh,1
+McLean Park,2019,New Zealand,Bangladesh,0
+Hagley Oval,2019,New Zealand,Bangladesh,0
+University Oval,2019,New Zealand,Bangladesh,0
+Kennington Oval,2019,South Africa,Bangladesh,1
+Kennington Oval,2019,New Zealand,Bangladesh,0
+Sophia Gardens,2019,England,Bangladesh,0
+Trent Bridge,2019,Australia,Bangladesh,0
+The Rose Bowl,2019,Afghanistan,Bangladesh,1
+Edgbaston,2019,India,Bangladesh,0
+Lord's,2019,Pakistan,Bangladesh,0
+University Oval,2021,New Zealand,Bangladesh,0
+Hagley Oval,2021,New Zealand,Bangladesh,0
+Basin Reserve,2021,New Zealand,Bangladesh,0
+Zahur Ahmed Chowdhury Stadium,2022,Afghanistan,Bangladesh,1
+Zahur Ahmed Chowdhury Stadium,2022,Afghanistan,Bangladesh,0
+SuperSport Park,2022,South Africa,Bangladesh,1
+Wanderers Stadium,2022,South Africa,Bangladesh,0
+Shere Bangla National Stadium,2022,India,Bangladesh,1
+Zahur Ahmed Chowdhury Stadium,2022,India,Bangladesh,0
+Shere Bangla National Stadium,2023,England,Bangladesh,0
+Zahur Ahmed Chowdhury Stadium,2023,England,Bangladesh,1
+Zahur Ahmed Chowdhury Stadium,2023,Afghanistan,Bangladesh,0
+Zahur Ahmed Chowdhury Stadium,2023,Afghanistan,Bangladesh,1
+Gaddafi Stadium,2023,Afghanistan,Bangladesh,1
+Gaddafi Stadium,2023,Pakistan,Bangladesh,0
+R Premadasa Stadium,2023,India,Bangladesh,1
+Shere Bangla National Stadium,2023,New Zealand,Bangladesh,0
+Himachal Pradesh Cricket Association Stadium,2023,Afghanistan,Bangladesh,1
+Himachal Pradesh Cricket Association Stadium,2023,England,Bangladesh,0
+MA Chidambaram Stadium,2023,New Zealand,Bangladesh,0
+Maharashtra Cricket Association Stadium,2023,India,Bangladesh,0
+Wankhede Stadium,2023,South Africa,Bangladesh,0
+Eden Gardens,2023,Pakistan,Bangladesh,0
+Maharashtra Cricket Association Stadium,2023,Australia,Bangladesh,0
+University Oval,2023,New Zealand,Bangladesh,0
+Saxton Oval,2023,New Zealand,Bangladesh,0
+McLean Park,2023,New Zealand,Bangladesh,1
+Sharjah Cricket Stadium,2024,Afghanistan,Bangladesh,0
+Sharjah Cricket Stadium,2024,Afghanistan,Bangladesh,1
+Melbourne Cricket Ground,2014,Australia,England,0
+Brisbane Cricket Ground,2014,Australia,England,0
+Sydney Cricket Ground,2014,Australia,England,0
+WACA Ground,2014,Australia,England,1
+Adelaide Oval,2014,Australia,England,0
+Sophia Gardens,2014,India,England,0
+Trent Bridge,2014,India,England,0
+Edgbaston,2014,India,England,0
+Headingley,2014,India,England,1
+Sydney Cricket Ground,2015,Australia,England,0
+Brisbane Cricket Ground,2015,India,England,1
+Bellerive Oval,2015,Australia,England,0
+WACA Ground,2015,India,England,1
+WACA Ground,2015,Australia,England,0
+Melbourne Cricket Ground,2015,Australia,England,0
+Sky Stadium,2015,New Zealand,England,0
+Adelaide Oval,2015,Bangladesh,England,0
+Sydney Cricket Ground,2015,Afghanistan,England,1
+Edgbaston,2015,New Zealand,England,1
+Kennington Oval,2015,New Zealand,England,0
+The Rose Bowl,2015,New Zealand,England,0
+Trent Bridge,2015,New Zealand,England,1
+Riverside Ground,2015,New Zealand,England,1
+The Rose Bowl,2015,Australia,England,0
+Lord's,2015,Australia,England,0
+Old Trafford,2015,Australia,England,1
+Headingley,2015,Australia,England,1
+Old Trafford,2015,Australia,England,0
+Sheikh Zayed Stadium,2015,Pakistan,England,0
+Sheikh Zayed Stadium,2015,Pakistan,England,1
+Sharjah Cricket Stadium,2015,Pakistan,England,1
+Dubai International Cricket Stadium,2015,Pakistan,England,1
+Mangaung Oval,2016,South Africa,England,1
+St George's Park,2016,South Africa,England,1
+SuperSport Park,2016,South Africa,England,0
+Wanderers Stadium,2016,South Africa,England,0
+Newlands,2016,South Africa,England,0
+The Rose Bowl,2016,Pakistan,England,1
+Lord's,2016,Pakistan,England,1
+Trent Bridge,2016,Pakistan,England,1
+Headingley,2016,Pakistan,England,1
+Sophia Gardens,2016,Pakistan,England,0
+Shere Bangla National Stadium,2016,Bangladesh,England,1
+Shere Bangla National Stadium,2016,Bangladesh,England,0
+Zahur Ahmed Chowdhury Stadium,2016,Bangladesh,England,1
+Maharashtra Cricket Association Stadium,2017,India,England,0
+Barabati Stadium,2017,India,England,0
+Eden Gardens,2017,India,England,1
+Headingley,2017,South Africa,England,1
+The Rose Bowl,2017,South Africa,England,1
+Lord's,2017,South Africa,England,0
+Kennington Oval,2017,Bangladesh,England,1
+Sophia Gardens,2017,New Zealand,England,1
+Edgbaston,2017,Australia,England,1
+Sophia Gardens,2017,Pakistan,England,0
+Melbourne Cricket Ground,2018,Australia,England,1
+Brisbane Cricket Ground,2018,Australia,England,1
+Sydney Cricket Ground,2018,Australia,England,1
+Adelaide Oval,2018,Australia,England,0
+Perth Stadium,2018,Australia,England,1
+Seddon Park,2018,New Zealand,England,0
+Bay Oval,2018,New Zealand,England,1
+Sky Stadium,2018,New Zealand,England,1
+University Oval,2018,New Zealand,England,0
+Hagley Oval,2018,New Zealand,England,1
+Kennington Oval,2018,Australia,England,1
+Sophia Gardens,2018,Australia,England,1
+Trent Bridge,2018,Australia,England,1
+Riverside Ground,2018,Australia,England,1
+Old Trafford,2018,Australia,England,1
+Trent Bridge,2018,India,England,0
+Lord's,2018,India,England,1
+Headingley,2018,India,England,1
+The Rose Bowl,2019,Pakistan,England,1
+County Ground (Bristol),2019,Pakistan,England,1
+Trent Bridge,2019,Pakistan,England,1
+Headingley,2019,Pakistan,England,1
+Kennington Oval,2019,South Africa,England,1
+Trent Bridge,2019,Pakistan,England,0
+Sophia Gardens,2019,Bangladesh,England,1
+Old Trafford,2019,Afghanistan,England,1
+Lord's,2019,Australia,England,0
+Edgbaston,2019,India,England,1
+Riverside Ground,2019,New Zealand,England,1
+Edgbaston,2019,Australia,England,1
+Lord's,2019,New Zealand,England,1
+Newlands,2020,South Africa,England,0
+Wanderers Stadium,2020,South Africa,England,1
+Old Trafford,2020,Australia,England,0
+Old Trafford,2020,Australia,England,1
+Maharashtra Cricket Association Stadium,2021,India,England,0
+Maharashtra Cricket Association Stadium,2021,India,England,1
+Sophia Gardens,2021,Pakistan,England,1
+Lord's,2021,Pakistan,England,1
+Edgbaston,2021,Pakistan,England,1
+Kennington Oval,2022,India,England,0
+Lord's,2022,India,England,1
+Old Trafford,2022,India,England,0
+Riverside Ground,2022,South Africa,England,0
+Old Trafford,2022,South Africa,England,1
+Adelaide Oval,2022,Australia,England,0
+Sydney Cricket Ground,2022,Australia,England,0
+Melbourne Cricket Ground,2022,Australia,England,0
+Mangaung Oval,2023,South Africa,England,0
+Diamond Oval,2023,South Africa,England,1
+Shere Bangla National Stadium,2023,Bangladesh,England,1
+Zahur Ahmed Chowdhury Stadium,2023,Bangladesh,England,0
+Sophia Gardens,2023,New Zealand,England,0
+The Rose Bowl,2023,New Zealand,England,1
+Kennington Oval,2023,New Zealand,England,1
+Lord's,2023,New Zealand,England,1
+Narendra Modi Stadium,2023,New Zealand,England,0
+Himachal Pradesh Cricket Association Stadium,2023,Bangladesh,England,1
+Arun Jaitley Stadium,2023,Afghanistan,England,0
+Wankhede Stadium,2023,South Africa,England,0
+Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium,2023,India,England,0
+Narendra Modi Stadium,2023,Australia,England,0
+Eden Gardens,2023,Pakistan,England,1
+Trent Bridge,2024,Australia,England,0
+Headingley,2024,Australia,England,0
+Riverside Ground,2024,Australia,England,1
+Lord's,2024,Australia,England,1
+County Ground (Bristol),2024,Australia,England,0
+McLean Park,2014,New Zealand,India,0
+Seddon Park,2014,New Zealand,India,0
+Sky Stadium,2014,New Zealand,India,0
+Khan Shaheb Osman Ali Stadium,2014,Bangladesh,India,1
+Shere Bangla National Stadium,2014,Pakistan,India,0
+Shere Bangla National Stadium,2014,Bangladesh,India,1
+Sophia Gardens,2014,England,India,1
+Trent Bridge,2014,England,India,1
+Edgbaston,2014,England,India,1
+Headingley,2014,England,India,0
+Melbourne Cricket Ground,2015,Australia,India,0
+Brisbane Cricket Ground,2015,England,India,0
+WACA Ground,2015,England,India,0
+Adelaide Oval,2015,Pakistan,India,1
+Melbourne Cricket Ground,2015,South Africa,India,1
+Melbourne Cricket Ground,2015,Bangladesh,India,1
+Sydney Cricket Ground,2015,Australia,India,0
+Shere Bangla National Stadium,2015,Bangladesh,India,0
+Shere Bangla National Stadium,2015,Bangladesh,India,1
+Green Park,2015,South Africa,India,0
+Holkar Cricket Stadium,2015,South Africa,India,1
+Saurashtra Cricket Association Stadium,2015,South Africa,India,0
+MA Chidambaram Stadium,2015,South Africa,India,1
+Wankhede Stadium,2015,South Africa,India,0
+WACA Ground,2016,Australia,India,0
+Brisbane Cricket Ground,2016,Australia,India,0
+Melbourne Cricket Ground,2016,Australia,India,0
+Manuka Oval,2016,Australia,India,0
+Sydney Cricket Ground,2016,Australia,India,1
+Himachal Pradesh Cricket Association Stadium,2016,New Zealand,India,1
+Arun Jaitley Stadium,2016,New Zealand,India,0
+Punjab Cricket Association IS Bindra Stadium,2016,New Zealand,India,1
+JSCA International Stadium Complex,2016,New Zealand,India,0
+Dr YS Rajasekhara Reddy Cricket Stadium,2016,New Zealand,India,1
+Maharashtra Cricket Association Stadium,2017,England,India,1
+Barabati Stadium,2017,England,India,1
+Eden Gardens,2017,England,India,0
+Edgbaston,2017,Pakistan,India,1
+Kennington Oval,2017,South Africa,India,1
+Edgbaston,2017,Bangladesh,India,1
+Kennington Oval,2017,Pakistan,India,0
+MA Chidambaram Stadium,2017,Australia,India,1
+Eden Gardens,2017,Australia,India,1
+Holkar Cricket Stadium,2017,Australia,India,1
+M Chinnaswamy Stadium,2017,Australia,India,0
+Vidarbha Cricket Association Stadium,2017,Australia,India,1
+Wankhede Stadium,2017,New Zealand,India,0
+Maharashtra Cricket Association Stadium,2017,New Zealand,India,1
+Green Park,2017,New Zealand,India,1
+Kingsmead,2018,South Africa,India,1
+SuperSport Park,2018,South Africa,India,1
+Newlands,2018,South Africa,India,1
+Wanderers Stadium,2018,South Africa,India,0
+St George's Park,2018,South Africa,India,1
+Trent Bridge,2018,England,India,1
+Lord's,2018,England,India,0
+Headingley,2018,England,India,0
+Dubai International Cricket Stadium,2018,Pakistan,India,1
+Dubai International Cricket Stadium,2018,Bangladesh,India,1
+Sydney Cricket Ground,2019,Australia,India,0
+Adelaide Oval,2019,Australia,India,1
+Melbourne Cricket Ground,2019,Australia,India,1
+McLean Park,2019,New Zealand,India,1
+Bay Oval,2019,New Zealand,India,1
+Seddon Park,2019,New Zealand,India,0
+Sky Stadium,2019,New Zealand,India,1
+Rajiv Gandhi International Stadium,2019,Australia,India,1
+Vidarbha Cricket Association Stadium,2019,Australia,India,1
+JSCA International Stadium Complex,2019,Australia,India,0
+Punjab Cricket Association IS Bindra Stadium,2019,Australia,India,0
+Arun Jaitley Stadium,2019,Australia,India,0
+The Rose Bowl,2019,South Africa,India,1
+Kennington Oval,2019,Australia,India,1
+Old Trafford,2019,Pakistan,India,1
+Edgbaston,2019,England,India,0
+Edgbaston,2019,Bangladesh,India,1
+Old Trafford,2019,New Zealand,India,0
+Wankhede Stadium,2020,Australia,India,0
+Saurashtra Cricket Association Stadium,2020,Australia,India,1
+M Chinnaswamy Stadium,2020,Australia,India,1
+Seddon Park,2020,New Zealand,India,0
+Eden Park,2020,New Zealand,India,0
+Bay Oval,2020,New Zealand,India,0
+Sydney Cricket Ground,2020,Australia,India,0
+Manuka Oval,2020,Australia,India,1
+Maharashtra Cricket Association Stadium,2021,England,India,1
+Maharashtra Cricket Association Stadium,2021,England,India,0
+Boland Park,2022,South Africa,India,0
+Newlands,2022,South Africa,India,0
+Kennington Oval,2022,England,India,1
+Lord's,2022,England,India,0
+Old Trafford,2022,England,India,1
+Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium,2022,South Africa,India,0
+JSCA International Stadium Complex,2022,South Africa,India,1
+Arun Jaitley Stadium,2022,South Africa,India,1
+Eden Park,2022,New Zealand,India,0
+Shere Bangla National Stadium,2022,Bangladesh,India,0
+Zahur Ahmed Chowdhury Stadium,2022,Bangladesh,India,1
+Rajiv Gandhi International Stadium,2023,New Zealand,India,1
+Shaheed Veer Narayan Sing International Stadium,2023,New Zealand,India,1
+Holkar Cricket Stadium,2023,New Zealand,India,1
+Wankhede Stadium,2023,Australia,India,1
+Dr YS Rajasekhara Reddy Cricket Stadium,2023,Australia,India,0
+MA Chidambaram Stadium,2023,Australia,India,0
+R Premadasa Stadium,2023,Pakistan,India,1
+R Premadasa Stadium,2023,Bangladesh,India,0
+Punjab Cricket Association IS Bindra Stadium,2023,Australia,India,1
+Holkar Cricket Stadium,2023,Australia,India,1
+Saurashtra Cricket Association Stadium,2023,Australia,India,0
+MA Chidambaram Stadium,2023,Australia,India,1
+Narendra Modi Stadium,2023,Pakistan,India,1
+Maharashtra Cricket Association Stadium,2023,Bangladesh,India,1
+Himachal Pradesh Cricket Association Stadium,2023,New Zealand,India,1
+Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium,2023,England,India,1
+Eden Gardens,2023,South Africa,India,1
+Wankhede Stadium,2023,New Zealand,India,1
+Narendra Modi Stadium,2023,Australia,India,0
+Wanderers Stadium,2023,South Africa,India,1
+St George's Park,2023,South Africa,India,0
+Boland Park,2023,South Africa,India,1
+McLean Park,2014,India,New Zealand,1
+Seddon Park,2014,India,New Zealand,1
+Sky Stadium,2014,India,New Zealand,1
+Bay Oval,2014,South Africa,New Zealand,0
+Dubai International Cricket Stadium,2014,Pakistan,New Zealand,0
+Sharjah Cricket Stadium,2014,Pakistan,New Zealand,1
+Sharjah Cricket Stadium,2014,Pakistan,New Zealand,0
+Sheikh Zayed Stadium,2014,Pakistan,New Zealand,1
+Sky Stadium,2015,Pakistan,New Zealand,1
+McLean Park,2015,Pakistan,New Zealand,1
+Sky Stadium,2015,England,New Zealand,1
+Eden Park,2015,Australia,New Zealand,1
+McLean Park,2015,Afghanistan,New Zealand,1
+Seddon Park,2015,Bangladesh,New Zealand,1
+Eden Park,2015,South Africa,New Zealand,1
+Melbourne Cricket Ground,2015,Australia,New Zealand,0
+Edgbaston,2015,England,New Zealand,0
+Kennington Oval,2015,England,New Zealand,1
+The Rose Bowl,2015,England,New Zealand,1
+Trent Bridge,2015,England,New Zealand,0
+Riverside Ground,2015,England,New Zealand,0
+SuperSport Park,2015,South Africa,New Zealand,0
+Senwes Park,2015,South Africa,New Zealand,1
+Kingsmead,2015,South Africa,New Zealand,0
+Basin Reserve,2016,Pakistan,New Zealand,1
+Eden Park,2016,Pakistan,New Zealand,1
+Eden Park,2016,Australia,New Zealand,1
+Sky Stadium,2016,Australia,New Zealand,0
+Seddon Park,2016,Australia,New Zealand,1
+Himachal Pradesh Cricket Association Stadium,2016,India,New Zealand,0
+Arun Jaitley Stadium,2016,India,New Zealand,1
+Punjab Cricket Association IS Bindra Stadium,2016,India,New Zealand,0
+JSCA International Stadium Complex,2016,India,New Zealand,1
+Dr YS Rajasekhara Reddy Cricket Stadium,2016,India,New Zealand,0
+Sydney Cricket Ground,2016,Australia,New Zealand,0
+Manuka Oval,2016,Australia,New Zealand,0
+Melbourne Cricket Ground,2016,Australia,New Zealand,0
+Hagley Oval,2016,Bangladesh,New Zealand,1
+Saxton Oval,2016,Bangladesh,New Zealand,1
+Eden Park,2017,Australia,New Zealand,1
+Seddon Park,2017,Australia,New Zealand,1
+Seddon Park,2017,South Africa,New Zealand,0
+Hagley Oval,2017,South Africa,New Zealand,1
+Sky Stadium,2017,South Africa,New Zealand,0
+Seddon Park,2017,South Africa,New Zealand,1
+Eden Park,2017,South Africa,New Zealand,0
+Castle Avenue,2017,Bangladesh,New Zealand,1
+Castle Avenue,2017,Bangladesh,New Zealand,0
+Sophia Gardens,2017,England,New Zealand,0
+Sophia Gardens,2017,Bangladesh,New Zealand,0
+Wankhede Stadium,2017,India,New Zealand,1
+Maharashtra Cricket Association Stadium,2017,India,New Zealand,0
+Green Park,2017,India,New Zealand,0
+Basin Reserve,2018,Pakistan,New Zealand,1
+Saxton Oval,2018,Pakistan,New Zealand,1
+University Oval,2018,Pakistan,New Zealand,1
+Seddon Park,2018,Pakistan,New Zealand,1
+Seddon Park,2018,England,New Zealand,1
+Bay Oval,2018,England,New Zealand,0
+Sky Stadium,2018,England,New Zealand,0
+University Oval,2018,England,New Zealand,1
+Hagley Oval,2018,England,New Zealand,0
+Sheikh Zayed Stadium,2018,Pakistan,New Zealand,1
+Sheikh Zayed Stadium,2018,Pakistan,New Zealand,0
+McLean Park,2019,India,New Zealand,0
+Bay Oval,2019,India,New Zealand,0
+Seddon Park,2019,India,New Zealand,1
+Sky Stadium,2019,India,New Zealand,0
+McLean Park,2019,Bangladesh,New Zealand,1
+Hagley Oval,2019,Bangladesh,New Zealand,1
+University Oval,2019,Bangladesh,New Zealand,1
+Kennington Oval,2019,Bangladesh,New Zealand,1
+The Cooper Associates County Ground,2019,Afghanistan,New Zealand,1
+Edgbaston,2019,South Africa,New Zealand,1
+Edgbaston,2019,Pakistan,New Zealand,0
+Lord's,2019,Australia,New Zealand,0
+Riverside Ground,2019,England,New Zealand,0
+Old Trafford,2019,India,New Zealand,1
+Lord's,2019,England,New Zealand,0
+Seddon Park,2020,India,New Zealand,1
+Eden Park,2020,India,New Zealand,1
+Bay Oval,2020,India,New Zealand,1
+Sydney Cricket Ground,2020,Australia,New Zealand,0
+University Oval,2021,Bangladesh,New Zealand,1
+Hagley Oval,2021,Bangladesh,New Zealand,1
+Basin Reserve,2021,Bangladesh,New Zealand,1
+Cazaly's Stadium,2022,Australia,New Zealand,0
+Eden Park,2022,India,New Zealand,1
+National Stadium (Karachi),2023,Pakistan,New Zealand,0
+National Stadium (Karachi),2023,Pakistan,New Zealand,1
+Rajiv Gandhi International Stadium,2023,India,New Zealand,0
+Shaheed Veer Narayan Sing International Stadium,2023,India,New Zealand,0
+Holkar Cricket Stadium,2023,India,New Zealand,0
+Rawalpindi Cricket Stadium,2023,Pakistan,New Zealand,0
+Sophia Gardens,2023,England,New Zealand,1
+The Rose Bowl,2023,England,New Zealand,0
+Kennington Oval,2023,England,New Zealand,0
+Lord's,2023,England,New Zealand,0
+Shere Bangla National Stadium,2023,Bangladesh,New Zealand,1
+Narendra Modi Stadium,2023,England,New Zealand,1
+MA Chidambaram Stadium,2023,Bangladesh,New Zealand,1
+MA Chidambaram Stadium,2023,Afghanistan,New Zealand,1
+Himachal Pradesh Cricket Association Stadium,2023,India,New Zealand,0
+Himachal Pradesh Cricket Association Stadium,2023,Australia,New Zealand,0
+Maharashtra Cricket Association Stadium,2023,South Africa,New Zealand,0
+M Chinnaswamy Stadium,2023,Pakistan,New Zealand,0
+Wankhede Stadium,2023,India,New Zealand,0
+University Oval,2023,Bangladesh,New Zealand,1
+Saxton Oval,2023,Bangladesh,New Zealand,1
+McLean Park,2023,Bangladesh,New Zealand,0
+Khan Shaheb Osman Ali Stadium,2014,Afghanistan,Pakistan,1
+Shere Bangla National Stadium,2014,India,Pakistan,1
+Shere Bangla National Stadium,2014,Bangladesh,Pakistan,1
+Sharjah Cricket Stadium,2014,Australia,Pakistan,0
+Dubai International Cricket Stadium,2014,Australia,Pakistan,0
+Sheikh Zayed Stadium,2014,Australia,Pakistan,0
+Dubai International Cricket Stadium,2014,New Zealand,Pakistan,1
+Sharjah Cricket Stadium,2014,New Zealand,Pakistan,0
+Sharjah Cricket Stadium,2014,New Zealand,Pakistan,1
+Sheikh Zayed Stadium,2014,New Zealand,Pakistan,0
+Sky Stadium,2015,New Zealand,Pakistan,0
+McLean Park,2015,New Zealand,Pakistan,0
+Adelaide Oval,2015,India,Pakistan,0
+Eden Park,2015,South Africa,Pakistan,1
+Adelaide Oval,2015,Australia,Pakistan,0
+Shere Bangla National Stadium,2015,Bangladesh,Pakistan,0
+Sheikh Zayed Stadium,2015,England,Pakistan,1
+Sheikh Zayed Stadium,2015,England,Pakistan,0
+Sharjah Cricket Stadium,2015,England,Pakistan,0
+Dubai International Cricket Stadium,2015,England,Pakistan,0
+Basin Reserve,2016,New Zealand,Pakistan,0
+Eden Park,2016,New Zealand,Pakistan,0
+The Rose Bowl,2016,England,Pakistan,0
+Lord's,2016,England,Pakistan,0
+Trent Bridge,2016,England,Pakistan,0
+Headingley,2016,England,Pakistan,0
+Sophia Gardens,2016,England,Pakistan,1
+Brisbane Cricket Ground,2017,Australia,Pakistan,0
+Melbourne Cricket Ground,2017,Australia,Pakistan,1
+WACA Ground,2017,Australia,Pakistan,0
+Sydney Cricket Ground,2017,Australia,Pakistan,0
+Adelaide Oval,2017,Australia,Pakistan,0
+Edgbaston,2017,India,Pakistan,0
+Edgbaston,2017,South Africa,Pakistan,1
+Sophia Gardens,2017,England,Pakistan,1
+Kennington Oval,2017,India,Pakistan,1
+Basin Reserve,2018,New Zealand,Pakistan,0
+Saxton Oval,2018,New Zealand,Pakistan,0
+University Oval,2018,New Zealand,Pakistan,0
+Seddon Park,2018,New Zealand,Pakistan,0
+Dubai International Cricket Stadium,2018,India,Pakistan,0
+Sheikh Zayed Stadium,2018,Afghanistan,Pakistan,1
+Sheikh Zayed Stadium,2018,Bangladesh,Pakistan,0
+Sheikh Zayed Stadium,2018,New Zealand,Pakistan,0
+Sheikh Zayed Stadium,2018,New Zealand,Pakistan,1
+St George's Park,2019,South Africa,Pakistan,1
+Kingsmead,2019,South Africa,Pakistan,0
+SuperSport Park,2019,South Africa,Pakistan,0
+Wanderers Stadium,2019,South Africa,Pakistan,1
+Newlands,2019,South Africa,Pakistan,0
+Sharjah Cricket Stadium,2019,Australia,Pakistan,0
+Sheikh Zayed Stadium,2019,Australia,Pakistan,0
+Dubai International Cricket Stadium,2019,Australia,Pakistan,0
+The Rose Bowl,2019,England,Pakistan,0
+County Ground (Bristol),2019,England,Pakistan,0
+Trent Bridge,2019,England,Pakistan,0
+Headingley,2019,England,Pakistan,0
+Trent Bridge,2019,England,Pakistan,1
+The Cooper Associates County Ground,2019,Australia,Pakistan,0
+Old Trafford,2019,India,Pakistan,0
+Lord's,2019,South Africa,Pakistan,1
+Edgbaston,2019,New Zealand,Pakistan,1
+Headingley,2019,Afghanistan,Pakistan,1
+Lord's,2019,Bangladesh,Pakistan,1
+SuperSport Park,2021,South Africa,Pakistan,1
+Wanderers Stadium,2021,South Africa,Pakistan,0
+Sophia Gardens,2021,England,Pakistan,0
+Lord's,2021,England,Pakistan,0
+Edgbaston,2021,England,Pakistan,0
+Gaddafi Stadium,2022,Australia,Pakistan,0
+Gaddafi Stadium,2022,Australia,Pakistan,1
+National Stadium (Karachi),2023,New Zealand,Pakistan,1
+National Stadium (Karachi),2023,New Zealand,Pakistan,0
+Rawalpindi Cricket Stadium,2023,New Zealand,Pakistan,1
+Mahinda Rajapaksha International Cricket Stadium,2023,Afghanistan,Pakistan,1
+R Premadasa Stadium,2023,Afghanistan,Pakistan,1
+Gaddafi Stadium,2023,Bangladesh,Pakistan,1
+R Premadasa Stadium,2023,India,Pakistan,0
+Narendra Modi Stadium,2023,India,Pakistan,0
+M Chinnaswamy Stadium,2023,Australia,Pakistan,0
+MA Chidambaram Stadium,2023,Afghanistan,Pakistan,0
+MA Chidambaram Stadium,2023,South Africa,Pakistan,0
+Eden Gardens,2023,Bangladesh,Pakistan,1
+M Chinnaswamy Stadium,2023,New Zealand,Pakistan,1
+Eden Gardens,2023,England,Pakistan,0
+Melbourne Cricket Ground,2024,Australia,Pakistan,0
+Adelaide Oval,2024,Australia,Pakistan,1
+Perth Stadium,2024,Australia,Pakistan,1
+Boland Park,2024,South Africa,Pakistan,1
+Newlands,2024,South Africa,Pakistan,1
+Harare Sports Club,2014,Australia,South Africa,1
+Harare Sports Club,2014,Australia,South Africa,0
+Bay Oval,2014,New Zealand,South Africa,1
+WACA Ground,2014,Australia,South Africa,0
+WACA Ground,2014,Australia,South Africa,1
+Manuka Oval,2014,Australia,South Africa,0
+Melbourne Cricket Ground,2014,Australia,South Africa,0
+Sydney Cricket Ground,2014,Australia,South Africa,0
+Melbourne Cricket Ground,2015,India,South Africa,0
+Eden Park,2015,Pakistan,South Africa,0
+Eden Park,2015,New Zealand,South Africa,0
+Shere Bangla National Stadium,2015,Bangladesh,South Africa,1
+Shere Bangla National Stadium,2015,Bangladesh,South Africa,0
+Zahur Ahmed Chowdhury Stadium,2015,Bangladesh,South Africa,0
+SuperSport Park,2015,New Zealand,South Africa,1
+Senwes Park,2015,New Zealand,South Africa,0
+Kingsmead,2015,New Zealand,South Africa,1
+Green Park,2015,India,South Africa,1
+Holkar Cricket Stadium,2015,India,South Africa,0
+Saurashtra Cricket Association Stadium,2015,India,South Africa,1
+MA Chidambaram Stadium,2015,India,South Africa,0
+Wankhede Stadium,2015,India,South Africa,1
+Mangaung Oval,2016,England,South Africa,0
+St George's Park,2016,England,South Africa,0
+SuperSport Park,2016,England,South Africa,1
+Wanderers Stadium,2016,England,South Africa,1
+Newlands,2016,England,South Africa,1
+Providence Stadium,2016,Australia,South Africa,1
+Warner Park,2016,Australia,South Africa,0
+SuperSport Park,2016,Australia,South Africa,1
+Wanderers Stadium,2016,Australia,South Africa,1
+Kingsmead,2016,Australia,South Africa,1
+St George's Park,2016,Australia,South Africa,1
+Newlands,2016,Australia,South Africa,1
+Seddon Park,2017,New Zealand,South Africa,1
+Hagley Oval,2017,New Zealand,South Africa,0
+Sky Stadium,2017,New Zealand,South Africa,1
+Seddon Park,2017,New Zealand,South Africa,0
+Eden Park,2017,New Zealand,South Africa,1
+Headingley,2017,England,South Africa,0
+The Rose Bowl,2017,England,South Africa,0
+Lord's,2017,England,South Africa,1
+Edgbaston,2017,Pakistan,South Africa,0
+Kennington Oval,2017,India,South Africa,0
+Diamond Oval,2017,Bangladesh,South Africa,1
+Boland Park,2017,Bangladesh,South Africa,1
+Buffalo Park,2017,Bangladesh,South Africa,1
+Kingsmead,2018,India,South Africa,0
+SuperSport Park,2018,India,South Africa,0
+Newlands,2018,India,South Africa,0
+Wanderers Stadium,2018,India,South Africa,1
+St George's Park,2018,India,South Africa,0
+Perth Stadium,2018,Australia,South Africa,1
+Adelaide Oval,2018,Australia,South Africa,0
+Bellerive Oval,2018,Australia,South Africa,1
+St George's Park,2019,Pakistan,South Africa,0
+Kingsmead,2019,Pakistan,South Africa,1
+SuperSport Park,2019,Pakistan,South Africa,1
+Wanderers Stadium,2019,Pakistan,South Africa,0
+Newlands,2019,Pakistan,South Africa,1
+Kennington Oval,2019,England,South Africa,0
+Kennington Oval,2019,Bangladesh,South Africa,0
+The Rose Bowl,2019,India,South Africa,0
+Sophia Gardens,2019,Afghanistan,South Africa,1
+Edgbaston,2019,New Zealand,South Africa,0
+Lord's,2019,Pakistan,South Africa,0
+Old Trafford,2019,Australia,South Africa,1
+Newlands,2020,England,South Africa,1
+Wanderers Stadium,2020,England,South Africa,0
+Boland Park,2020,Australia,South Africa,1
+Mangaung Oval,2020,Australia,South Africa,1
+Senwes Park,2020,Australia,South Africa,1
+SuperSport Park,2021,Pakistan,South Africa,0
+Wanderers Stadium,2021,Pakistan,South Africa,1
+Boland Park,2022,India,South Africa,1
+Newlands,2022,India,South Africa,1
+SuperSport Park,2022,Bangladesh,South Africa,0
+Wanderers Stadium,2022,Bangladesh,South Africa,1
+Riverside Ground,2022,England,South Africa,1
+Old Trafford,2022,England,South Africa,0
+Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium,2022,India,South Africa,1
+JSCA International Stadium Complex,2022,India,South Africa,0
+Arun Jaitley Stadium,2022,India,South Africa,0
+Mangaung Oval,2023,England,South Africa,1
+Diamond Oval,2023,England,South Africa,0
+Mangaung Oval,2023,Australia,South Africa,0
+Senwes Park,2023,Australia,South Africa,1
+SuperSport Park,2023,Australia,South Africa,1
+Wanderers Stadium,2023,Australia,South Africa,1
+Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium,2023,Australia,South Africa,1
+Wankhede Stadium,2023,England,South Africa,1
+Wankhede Stadium,2023,Bangladesh,South Africa,1
+MA Chidambaram Stadium,2023,Pakistan,South Africa,1
+Maharashtra Cricket Association Stadium,2023,New Zealand,South Africa,1
+Eden Gardens,2023,India,South Africa,0
+Narendra Modi Stadium,2023,Afghanistan,South Africa,1
+Eden Gardens,2023,Australia,South Africa,0
+Wanderers Stadium,2023,India,South Africa,0
+St George's Park,2023,India,South Africa,1
+Boland Park,2023,India,South Africa,0
+Sharjah Cricket Stadium,2024,Afghanistan,South Africa,0
+Sharjah Cricket Stadium,2024,Afghanistan,South Africa,1
+Boland Park,2024,Pakistan,South Africa,0
+Newlands,2024,Pakistan,South Africa,0
