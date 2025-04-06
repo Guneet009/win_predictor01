@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Train Model</title>
+</head>
+<body>
+    
+    <h3>Select Features to train Model</h3>
+
+    <form id="trainForm" action="/train" method="post">
+        <div id="feature-list"></div>
+        <br>
+        <button type="submit" class="btn btn-primary">Train my Model</button>
+
+    </form>
+
+    <p id="status"></p>
+
+    <script>
+        document.addEventListener('DOMContentLoaded', function () {
+            const features = [
+                "season", "Date", "City", "Home Team", "Away Team",
+                "Toss won by", "Toss decision", "Target Runs"
+            ];
+
+            let featureHTML = "";
+            features.forEach(feature => {
+                featureHTML += `<label><input type="checkbox" name="selected_features" value="${feature}" checked> ${feature}</label><br>`;
+            });
+
+            document.getElementById("feature-list").innerHTML = featureHTML;
+
+            const form = document.getElementById("trainForm");
+            form.addEventListener("submit", function (event) {
+                document.getElementById("status").textContent = "Training in progress...";
+            });
+
+            const urlParams = new URLSearchParams(window.location.search);
+            const statusMessage = urlParams.get('status');
+            if (statusMessage) {
+                document.getElementById("status").textContent = statusMessage;
+            }
+        });
+    </script>
+</body>
+</html>
